@@ -1,3 +1,8 @@
+{% if site.commento %}
+<script defer src="http://commento.example.com:8080/js/commento.js"></script>
+<div id="commento"></div>
+{% endif %}
+
 {% if site.disqus %}
 <div class="comments">
 	<div id="disqus_thread"></div>
@@ -15,3 +20,4 @@
 	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </div>
 {% endif %}
+
