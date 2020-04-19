@@ -16,6 +16,7 @@ Ya echamos de menos las noches de fiesta, salir con los amigos, con la pareja, q
 ![Dibujo]({{ site.baseurl }}/arte/reto05/2020-04-13-reto05-foto09.jpg "Título: t, Autor: x")
 ![Dibujo]({{ site.baseurl }}/arte/reto05/2020-04-13-reto05-foto10.jpg "Título: t, Autor: x")
 ![Dibujo]({{ site.baseurl }}/arte/reto05/2020-04-13-reto05-foto11.jpg "Título: t, Autor: x")
+![Dibujo]({{ site.baseurl }}/arte/reto05/2020-04-13-reto05-foto12.jpg "Título: t, Autor: x")
 
 ---
 
