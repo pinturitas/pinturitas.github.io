@@ -1,35 +1,50 @@
-- alias: Ester
+- id: ester
+  alias: Ester
+  nombre: Ester Navasquillo López
+  bio: «A mí ponme que soy la profe... nada más.» - Magister dixit
+
+- id: luz
+  alias: Luz
+
+- id: rosa
+  alias: Rosa
+
+- id: juanma
+  alias: Juanma
+
+- id: chali
+  alias: Chali
+
+- id: asun
+  alias: Asun
+
+- id: nati
+  alias: Nati
+
+- id: mjesus
+  alias: Maria Jesús
+
+- id: jose
+  alias: Jóse
+
+- id: carlos
+  alias: Carlos
+
+- id: macarena
+  alias: Macarena
+  nombre: Macarena Araiz Valdivielso
+  bio: «Alumna intermitente de la Escuela de Pintura de Carlet desde el 2010. Aficionada al mar, viajera impenitente, ingeniero en los ratos libres, y en búsqueda activa de inspiración a tiempo completo.»
+
+- id: geles
+  alias: Geles
+
+- id: boro
+  alias: Boro
   bio:
 
-- alias: Luz
-
-- alias: Rosa
-
-- alias: Juanma
-
-- alias: Chali
-
-- alias: Asun
-
-- alias: Nati
-
-- alias: Maria Jesús
-  id: mjesus
-
-- alias: Jóse
-
-- alias: Carlos
-
-- alias: Macarena
-  bio: Alumna intermitente de la Escola de Pintura de Carlet desde el 2010. Aficionada al mar, viajera impenitente, ingeniero en los ratos libres, y en búsqueda activa de inspiración a tiempo completo.
-
-- alias: Geles
-
-- alias: Boro
-  bio:
-
-- alias: Santiago
-  id: santiago
-  bio: Informático de afición y profesión, de media un dibujo cada diez años... 
+- id: santiago
+  alias: Santiago
+  nombre: Santiago Calzada Martínez
+  bio: «Informático de afición y profesión, de media un dibujo cada diez años.»
 
 
