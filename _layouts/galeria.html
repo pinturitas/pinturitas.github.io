@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+    {% if page.galeria_pathname %}
+      <hr/>
+      {% for f in site.static_files %}{% if f.path contains page.galeria_pathname %}
+        <img src="{{ site.baseurl }}{{ f.path }}" alt="Imagen de una obra de arte" title="{{ f.basename }}" />
+      {% endif %}{% endfor %}
+      <hr/>
+    {% endif %}
+  </div>
+
+  <div class="date">
+    Obras de arte de la Escuela de Pintura de Carlet. Primavera de 2020.<br/>
+    Escrito en {{ page.date | date: "%Y-%m-%d " }}
+  </div>
+
+  {% include comentarios.html %}
+</article>
