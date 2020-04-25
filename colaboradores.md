@@ -8,7 +8,7 @@ permalink: /colaboradores/
 
 <ul>
 {% for colaborador in site.data.colaboradores %}
-  <li>{{ colaborador.alias }}</li>
+  <li><strong>{{ colaborador.alias }}</strong> - <blockquote><em>{{ colaborador.bio }}</em></blockquote></li>
 {% endfor %}
 </ul>
 

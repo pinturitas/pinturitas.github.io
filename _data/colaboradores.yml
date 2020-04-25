@@ -1,4 +1,5 @@
 - alias: Ester
+  bio:
 
 - alias: Luz
 
@@ -13,19 +14,22 @@
 - alias: Nati
 
 - alias: Maria Jesús
+  id: mjesus
 
 - alias: Jóse
 
 - alias: Carlos
 
 - alias: Macarena
+  bio: Alumna intermitente de la Escola de Pintura de Carlet desde el 2010. Aficionada al mar, viajera impenitente, ingeniero en los ratos libres, y en búsqueda activa de inspiración a tiempo completo.
 
 - alias: Geles
 
 - alias: Boro
+  bio:
 
 - alias: Santiago
-
-
+  id: santiago
+  bio: Informático de afición y profesión, de media un dibujo cada diez años... 
 
 
