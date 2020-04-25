@@ -8,9 +8,8 @@ Ya echamos de menos las noches de fiesta, salir con los amigos, con la pareja, q
 ---
 
 {% for f in site.static_files %}{% if f.path contains 'arte/reto05' %}
-![Dibujo]({{ site.baseurl }}{{ f.path }} "Imagen")
+<img src="{{ site.baseurl }}{{ f.path }}" alt="Dibujo" title="{{ f.basename }}" />
 {% endif %}{% endfor %}
 
 ---
 
-Obras de arte de la [Escola de Pintura de Carlet](https://arte.pinturitas.com) de primavera de 2020.

@@ -8,9 +8,8 @@ Acabando el primer mes de confinamiento, hay que mirar al futuro con optimismo, 
 ---
 
 {% for f in site.static_files %}{% if f.path contains 'arte/reto04' %}
-![Dibujo]({{ site.baseurl }}{{ f.path }} "Imagen")
+<img src="{{ site.baseurl }}{{ f.path }}" alt="Dibujo" title="{{ f.basename }}" />
 {% endif %}{% endfor %}
 
 ---
 
-Obras de arte de la [Escola de Pintura de Carlet](https://arte.pinturitas.com) de primavera de 2020.

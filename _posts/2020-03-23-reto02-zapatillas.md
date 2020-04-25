@@ -8,9 +8,8 @@ Esto del confinamiento obliga... no podemos salir, ni hacer deporte, ni cenar fu
 ---
 
 {% for f in site.static_files %}{% if f.path contains 'arte/reto02' %}
-![Dibujo]({{ site.baseurl }}{{ f.path }} "Imagen")
+<img src="{{ site.baseurl }}{{ f.path }}" alt="Dibujo" title="{{ f.basename }}" />
 {% endif %}{% endfor %}
 
 ---
 
-Obras de arte de la [Escola de Pintura de Carlet](https://arte.pinturitas.com) de primavera de 2020.

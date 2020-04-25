@@ -5,30 +5,48 @@
 
 - id: luz
   alias: Luz
+  nombre:
+  bio:
 
 - id: rosa
   alias: Rosa
+  nombre:
+  bio:
 
 - id: juanma
   alias: Juanma
+  nombre:
+  bio:
 
 - id: chali
   alias: Chali
+  nombre:
+  bio:
 
 - id: asun
   alias: Asun
+  nombre:
+  bio:
 
 - id: nati
   alias: Nati
+  nombre:
+  bio:
 
 - id: mjesus
   alias: Maria Jesús
+  nombre:
+  bio:
 
 - id: jose
   alias: Jóse
+  nombre:
+  bio:
 
 - id: carlos
   alias: Carlos
+  nombre:
+  bio:
 
 - id: macarena
   alias: Macarena
@@ -37,9 +55,12 @@
 
 - id: geles
   alias: Geles
+  nombre:
+  bio:
 
 - id: boro
   alias: Boro
+  nombre:
   bio:
 
 - id: santiago
