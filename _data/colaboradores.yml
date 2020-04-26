@@ -65,8 +65,10 @@
 
 - id: boro
   alias: Boro
-  nombre:
-  bio:
+  nombre: Boro Bonafé
+  bio: «Jubilado y alumno de la escuela de pintura y dibujo.»
+  bio-va_CA: jubilat i alumne de la escola de pintura i dibuix
+
 
 - id: santiago
   alias: Santiago
