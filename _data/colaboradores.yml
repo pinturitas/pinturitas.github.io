@@ -66,6 +66,6 @@
 - id: santiago
   alias: Santiago
   nombre: Santiago Calzada Martínez
-  bio: «Informático de afición y profesión, de media un dibujo cada diez años.»
+  bio: «Informático de afición y profesión, de media un dibujo cada ~~diez~~ cinco años.»
 
 
