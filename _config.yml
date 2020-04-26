@@ -11,6 +11,10 @@ description: Galería de pinturitas
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
 
+# Soporte para páginas de cada autor
+collections:
+  autores:
+
 #
 # Flags below are optional
 #
