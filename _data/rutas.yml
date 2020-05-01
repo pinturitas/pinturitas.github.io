@@ -1,0 +1,26 @@
+- id: nav00
+  ruta: /
+  nombre: Inicio
+  tipo: menu
+
+- id: nav01
+  ruta: /publicaciones
+  nombre: Publicaciones
+  tipo: menu
+
+- id: nav02
+  ruta: /personas
+  nombre: Personas
+  tipo: menu
+
+- id: nav03
+  ruta: /about
+  nombre: Acerca...
+  tipo: menu
+
+- id: nav04
+  ruta: /macarena
+  nombre: Macarena-prueba
+  tipo: otro
+
+

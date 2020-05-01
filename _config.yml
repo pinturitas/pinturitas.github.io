@@ -14,16 +14,24 @@ avatar:
 # Zona horaria
 TZ: Europe/Madrid
 
-# usar pocas categorías, mejor rutas poco profundas
+# por defecto enruta sólo títulos
 # permalink: /:title/
+# Usar pocas categorías, mejor rutas poco profundas
 #permalink: /:categories/:year/:month/:day/:title:output_ext
 permalink: /:categories/:year/:month/:day/:title/
 
+# por defecto los borradores no se ven
+show_drafts: false
+#show_drafts: true
+
+# por defecto no se publican post futuros
+future: false
+#future: true
 
 # Soporte para páginas de cada artista (pruebas)
-#collections:
-#  artistas:
-#    output: true
+collections:
+  artistas:
+    output: true
 
 #
 # Flags below are optional
