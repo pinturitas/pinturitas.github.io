@@ -3,68 +3,8 @@
   nombre: Ester Navasquillo López
   bio: «A mí ponme que soy la profe... nada más.» - Magister dixit
 
-- id: eli
-  alias: Eli
-  nombre: Elisabeth Escoms Ferrer
-  bio: «Alumna y enfermera entusiasta. Principiante-aprendiz. Viajera y aventurera, pocas veces con los pies en la tierra, facilidad de pérdida en otros mundos, mejor por aire o por mar. Alma libre con trazos bohemios. Optimista hasta la saciedad.»
-
-- id: merce
-  alias: Mercé
-  nombre:
-  bio:
-
-- id: luz
-  alias: Luz
-  nombre:
-  bio:
-
-- id: rosa
-  alias: Rosa
-  nombre: Rosa María Martínez Grau
-  bio: «Maestra jubilada ¡¡¡y alumna de pintura entusiasmada!!!»
-
-- id: juanma
-  alias: Juanma
-  nombre:
-  bio:
-
-- id: chali
-  alias: Chali
-  nombre: Chali Fábregues Ocheda
-  bio: «Aficionada a la pintura/dibujo. Amante de la naturaleza 😀»
-
 - id: asun
   alias: Asun
-  nombre:
-  bio:
-
-- id: nati
-  alias: Nati
-  nombre:
-  bio:
-
-- id: mjesus
-  alias: Maria Jesús
-  nombre:
-  bio:
-
-- id: jose
-  alias: Jóse
-  nombre:
-  bio:
-
-- id: carlos
-  alias: Carlos
-  nombre:
-  bio:
-
-- id: macarena
-  alias: Macarena
-  nombre: Macarena Araiz Valdivielso
-  bio: «Alumna intermitente de la Escuela de Pintura de Carlet desde el 2010. Aficionada al mar, viajera impenitente, ingeniero en los ratos libres, y en búsqueda activa de inspiración a tiempo completo.»
-
-- id: geles
-  alias: Geles
   nombre:
   bio:
 
@@ -74,6 +14,80 @@
   bio: «Jubilado y alumno de la escuela de pintura y dibujo.»
   bio-va_CA: jubilat i alumne de la escola de pintura i dibuix
 
+- id: carlos
+  alias: Carlos
+  nombre:
+  bio:
+
+- id: chali
+  alias: Chali
+  nombre: Chali Fábregues Ocheda
+  bio: «Aficionada a la pintura/dibujo. Amante de la naturaleza 😀»
+
+- id: eli
+  alias: Eli
+  nombre: Elisabeth Escoms Ferrer
+  bio: «Alumna y enfermera entusiasta. Principiante-aprendiz. Viajera y aventurera, pocas veces con los pies en la tierra, facilidad de pérdida en otros mundos, mejor por aire o por mar. Alma libre con trazos bohemios. Optimista hasta la saciedad.»
+
+- id: geles
+  alias: Geles
+  nombre:
+  bio:
+
+- id: jose
+  alias: Jóse
+  nombre:
+  bio:
+
+- id: juanma
+  alias: Juanma
+  nombre:
+  bio:
+
+- id: lo
+  alias: Lo
+  nombre:
+  bio:
+
+- id: luz
+  alias: Luz
+  nombre:
+  bio:
+
+- id: macarena
+  alias: Macarena
+  nombre: Macarena Araiz Valdivielso
+  bio: «Alumna intermitente de la Escuela de Pintura de Carlet desde el 2010. Aficionada al mar, viajera impenitente, ingeniero en los ratos libres, y en búsqueda activa de inspiración a tiempo completo.»
+
+- id: marisa
+  alias: Marisa
+  nombre:
+  bio:
+
+- id: merce
+  alias: Mercé
+  nombre:
+  bio:
+
+- id: mima
+  alias: Mima
+  nombre:
+  bio:
+
+- id: mjesus
+  alias: Maria Jesús
+  nombre:
+  bio:
+
+- id: nati
+  alias: Nati
+  nombre:
+  bio:
+
+- id: rosa
+  alias: Rosa
+  nombre: Rosa María Martínez Grau
+  bio: «Maestra jubilada ¡¡¡y alumna de pintura entusiasmada!!!»
 
 - id: santiago
   alias: Santiago
