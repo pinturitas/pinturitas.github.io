@@ -1,0 +1,6 @@
+    {% if page.selector %}
+      {% for f in site.static_files %}{% if f.path contains page.selector %}
+        <img src="{{ site.baseurl }}{{ f.path }}" alt="Imagen de una obra de arte" title="{{ f.basename }}" />
+      {% endif %}{% endfor %}
+    {% endif %}
+

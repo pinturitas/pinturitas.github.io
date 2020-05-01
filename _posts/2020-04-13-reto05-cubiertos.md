@@ -1,6 +1,8 @@
 ---
 layout: galeria
 title: Reto 5 - Cubiertos
+categories: [retos]
+tags: [covid19, primavera-2020, dibujos]
 galeria_pathname: arte/reto05-cubiertos
 fecha: 2020-04-13
 ---

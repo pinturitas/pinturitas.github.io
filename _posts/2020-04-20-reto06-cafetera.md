@@ -1,6 +1,8 @@
 ---
 layout: galeria
 title: Reto 6 - Cafetera
+categories: [retos]
+tags: [covid19, primavera-2020, dibujos]
 galeria_pathname: arte/reto06-cafetera
 fecha: 2020-04-20
 ---

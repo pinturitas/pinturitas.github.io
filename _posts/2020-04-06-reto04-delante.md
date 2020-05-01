@@ -1,6 +1,8 @@
 ---
 layout: galeria
 title: Reto 4 - ¡Mira delante!
+categories: [retos]
+tags: [covid19, primavera-2020, dibujos]
 galeria_pathname: arte/reto04-delante
 fecha: 2020-04-06
 ---

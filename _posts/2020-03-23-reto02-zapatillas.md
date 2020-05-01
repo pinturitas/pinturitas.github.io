@@ -1,6 +1,8 @@
 ---
 layout: galeria
 title: Reto 2 - Zapatillas de "quédate en casa"
+categories: [retos]
+tags: [covid19, primavera-2020, dibujos]
 galeria_pathname: arte/reto02-zapatillas
 fecha: 2020-03-23
 ---

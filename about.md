@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Acerca de
+title: Acerca de este sitio
 permalink: /about/
 ---
 
-En este blog se presenta una pequeña muestra de obras realizadas por artistas de la Escola de Pintura de Carlet.
+En este blog se presenta una pequeña muestra de obras realizadas por artistas de la Escuela de Pintura de Carlet.
 Inicialmente hechas en casa durante el confinamiento debido al COVID-19, gracias al reto semanal lanzado por Ester para que se siga dibujando estos días.
 
 ### Más información
@@ -17,11 +17,16 @@ Puedes contactar conmigo a través de Macarena por el grupo de WhatsApp de la Es
 
 Santiago.
 
----
+### Planes de mejora para el sitio
 
-#### Comentarios
+- Soporte multilenguaje ([valenciano](https://es.wikipedia.org/wiki/Idioma_valenciano) y otros)
+- Soporte para comentarios open-source ([commento.io](https://commento.io/) u otros)
 
-<script defer src="http://lienzo.pinturitas.com:8080/js/commento.js"></script>
-<div id="commento"></div>
+### Referencias
 
----
+- [Jekyll Now](https://github.com/barryclark/jekyll-now)
+- [Jekyll](https://jekyllrb.com/)
+- [Adding a Gallery to Jekyll](https://opieters.github.io/jekyll-image-gallery-example/) y código en [GitHub](https://github.com/opieters/jekyll-image-gallery-example)
+
+
+
