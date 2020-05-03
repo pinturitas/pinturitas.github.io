@@ -1,5 +1,5 @@
-    {% if CADENA %}
-      {% for item in site.static_files %}{% if item.basename contains CADENA %}
+    {% if SELECTOR %}
+      {% for item in site.static_files %}{% if item.path contains SELECTOR %}
         <img src="{{ site.baseurl }}{{ item.path }}" alt="Imagen o fotografía de una obra artística" title="{{ item.basename }}" />
         <p>{{ item.basename }}</p>
       {% endif %}{% endfor %}

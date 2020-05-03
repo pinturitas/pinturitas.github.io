@@ -1,6 +1,6 @@
           <nav>
-            {% for dato in site.data.rutas %}{% if dato.tipo == "menu"%}
-            <a href="{{ site.baseurl }}{{ dato.ruta }}">{{ dato.nombre }}</a>
+            {% for item in site.data.menu %}{% if item.ruta %}
+            <a href="{{ site.baseurl }}{{ item.ruta }}">{{ item.nombre }}</a>
             {% endif %}{% endfor %}
           </nav>
 

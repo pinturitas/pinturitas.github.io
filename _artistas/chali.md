@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: chali
+item_id: chali
 ---

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Acerca de este sitio
-permalink: /about/
 ---
 
 En este blog se presenta una pequeña muestra de obras realizadas por artistas de la Escuela de Pintura de Carlet.

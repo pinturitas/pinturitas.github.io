@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: geles
+item_id: geles
 ---

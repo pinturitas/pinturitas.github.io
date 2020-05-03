@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: marisa
+item_id: marisa
 ---

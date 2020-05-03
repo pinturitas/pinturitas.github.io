@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>Todas las publicaciones</h2>
+<h2>Galerías publicadas</h2>
 <ul>
   {% for post in site.posts %}
     <li>
@@ -11,7 +11,7 @@ layout: default
   {% endfor %}
 </ul>
 
-<h2>Publicaciones por categoría</h2>
+<h2>Galerías por categoría</h2>
 <ul>
 {% assign categories_list = site.categories %}
   {% if categories_list.first[0] == null %}

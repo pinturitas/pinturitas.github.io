@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: rosa
+item_id: rosa
 ---

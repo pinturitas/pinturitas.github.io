@@ -28,11 +28,17 @@ show_drafts: false
 future: false
 #future: true
 
-# Soporte para páginas de cada artista (pruebas)
+# Soporte para páginas de cada artista
 collections:
   artistas:
     output: true
 
+defaults:
+  - scope:
+      path: ""
+      type: "artistas"
+    values:
+      layout: "artista"
 #
 # Flags below are optional
 #

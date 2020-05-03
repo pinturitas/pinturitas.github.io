@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: ester
+item_id: ester
 ---

@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: eli
+item_id: eli
 ---

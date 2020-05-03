@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: carlos
+item_id: carlos
 ---

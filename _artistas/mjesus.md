@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: mjesus
+item_id: mjesus
 ---

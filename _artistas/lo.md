@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: lo
+item_id: lo
 ---

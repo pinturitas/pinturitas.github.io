@@ -1,15 +1,14 @@
 ---
 layout: default
 ---
-{% assign a_id = page.artista_id %}
-{% assign persona = site.data.personas | where:"id", a_id | first %}
-{% assign CADENA = page.artista_id %}
+{% assign artistaid = page.item_id %}
+{% assign artista = site.data.artistas | where:"item_id", artistaid | first %}
+{% capture SELECTOR %}-{{ artistaid }}.jpg{% endcapture %}
 
 <article class="post">
-  <h1>{{ persona.nombre }}</h1>
-  <h3>alias: {{ persona.alias }}</h3>
-
-  <p>{{ persona.bio  }}</p>
+  <h1><strong>{{ artista.alias }}</strong></a><em> - {{ artista.nombre }}</em></h1>
+  <blockquote>{{ artista.bio | default: "**Ninguna nota biográfica proporcionada todavía**" }}</blockquote>
+  <blockquote>{{ artista.bio_va }}</blockquote>
 
   <div class="entry">
     {{ content }}

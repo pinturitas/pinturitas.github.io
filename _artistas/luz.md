@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: luz
+item_id: luz
 ---

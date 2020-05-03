@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: nati
+item_id: nati
 ---

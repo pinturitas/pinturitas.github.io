@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: mima
+item_id: mima
 ---

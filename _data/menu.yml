@@ -1,0 +1,16 @@
+- item_id: nav00
+  ruta: /
+  nombre: Inicio
+
+- item_id: nav01
+  ruta: /galerias
+  nombre: Galerías
+
+- item_id: nav02
+  ruta: /artistas
+  nombre: Artistas
+
+- item_id: nav03
+  ruta: /acerca
+  nombre: Acerca…
+

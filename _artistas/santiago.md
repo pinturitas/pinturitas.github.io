@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: santiago
+item_id: santiago
 ---

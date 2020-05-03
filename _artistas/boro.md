@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: boro
+item_id: boro
 ---

@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: merce
+item_id: merce
 ---

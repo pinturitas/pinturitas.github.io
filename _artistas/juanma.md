@@ -1,4 +1,3 @@
 ---
-layout: artista
-artista_id: juanma
+item_id: juanma
 ---
