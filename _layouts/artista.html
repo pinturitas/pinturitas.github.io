@@ -8,7 +8,7 @@ layout: default
 <article class="post">
   <h1><strong>{{ artista.alias }}</strong></a><em> - {{ artista.nombre }}</em></h1>
   <blockquote>{{ artista.bio | default: "**Ninguna nota biográfica proporcionada todavía**" }}</blockquote>
-  <blockquote>{{ artista.bio_va }}</blockquote>
+  {% if artista.bio_va %}<blockquote>{{ artista.bio_va }}</blockquote>{% endif %}
 
   <div class="entry">
     {{ content }}
