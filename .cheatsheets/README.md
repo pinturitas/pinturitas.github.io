@@ -1,4 +1,4 @@
-# Comandos y trucos útiles (Cheat sheet)
+# Comandos y trucos útiles (Cheat sheet) y herramientas auxiliares
 
 ## jekyll
 
@@ -19,4 +19,9 @@ convert -delay 100 -loop 0 *.jpeg animatedGIF.gif  # imagemagick
 
 ```
 
+## iterar sobre datos y crear ficheros usando python
+
+```
+python3 iterar-personas.py
+```
 
