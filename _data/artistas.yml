@@ -5,8 +5,9 @@
 
 - item_id: asun
   alias: Asun
-  nombre:
-  bio:
+  nombre: Asun Bosch Castello
+  bio: Adicta a las nuevas experiencias que brinda cada nuevo lienzo.
+  bio_va: Adicta a les noves experiéncies que brinda cada nou llenç.
 
 - item_id: boro
   alias: Boro
@@ -41,9 +42,9 @@
   bio:
 
 - item_id: jose
-  alias: Jóse
-  nombre:
-  bio:
+  alias: Jose
+  nombre: Jose Ramos Castillo
+  bio: Trabajador del metal, amante de los trabajos manuales. Humanista y enamorado de la historia, aprendiz de pintor.
 
 - item_id: juanma
   alias: Juanma
