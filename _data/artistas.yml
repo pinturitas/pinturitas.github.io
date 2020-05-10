@@ -15,6 +15,11 @@
   bio: Jubilado y alumno de la escuela de pintura y dibujo.
   bio_va: Jubilat i alumne de la escola de pintura i dibuix
 
+- item_id: carla
+  alias: Carla
+  nombre: Carla Sanchís
+  bio:
+
 - item_id: carlos
   alias: Carlos
   nombre:
