@@ -27,5 +27,7 @@ Santiago.
 - [Jekyll](https://jekyllrb.com/)
 - [Adding a Gallery to Jekyll](https://opieters.github.io/jekyll-image-gallery-example/) y código en [GitHub](https://github.com/opieters/jekyll-image-gallery-example)
 
+### Octogato Artista
 
+![logo octogato como pintor](/images/octogato-artista.png "Octogato Artista")
 
