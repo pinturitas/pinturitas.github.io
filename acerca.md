@@ -31,3 +31,6 @@ Santiago.
 
 ![logo octogato como pintor](/images/octogato-artista.png "Octogato Artista")
 
+<script defer src="http://commento.pinturitas.com:8080/js/commento.js"></script>
+<div id="commento"></div>
+
