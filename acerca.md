@@ -37,7 +37,6 @@ Santiago.
 {% assign galeria_pathname = page.galeria_pathname %}
 {% include cuadro.html %}
 
----
 #### Futuro sistema de comentarios aquí debajo
 
 <script defer src="https://commento.pinturitas.com:8080/js/commento.js"></script>
