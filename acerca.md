@@ -35,7 +35,13 @@ Santiago.
 ### Miniaturas
 
 {% assign galeria_pathname = page.galeria_pathname %}
+
+{% capture my_include %}
+
 {% include cuadros.html %}
+
+{% endcapture %}
+{{ my_include | markdownify }}
 
 ### Futuro sistema de comentarios aquí debajo
 
