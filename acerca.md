@@ -32,12 +32,12 @@ Santiago.
 
 ![logo octogato como pintor](/images/octogato-artista.png "Octogato Artista")
 
-#### Miniaturas
+### Miniaturas
 
 {% assign galeria_pathname = page.galeria_pathname %}
-{% include cuadro.html %}
+{% include cuadros.html %}
 
-#### Futuro sistema de comentarios aquí debajo
+### Futuro sistema de comentarios aquí debajo
 
 <script defer src="https://commento.pinturitas.com:8080/js/commento.js"></script>
 <div id="commento"></div>
