@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Acerca de este sitio
-galeria_pathname: reto07-roselles
+galeria_pathname: arte/reto07-roselles
 ---
 
 En este blog se presenta una pequeña muestra de obras realizadas por artistas de la Escuela de Pintura de Carlet.
