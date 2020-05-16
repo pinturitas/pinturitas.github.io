@@ -1,0 +1,7 @@
+   {% if galeria_pathname %}
+      <hr/>
+      {% for f in site.static_files %}{% if f.path contains galeria_pathname %}
+        <img src="{{ site.baseurl }}{{ f.path }}" alt="Imagen de una obra de arte" title="{{ f.basename }}" />
+      {% endif %}{% endfor %}
+      <hr/>
+    {% endif %}
