@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Acerca de este sitio
+aleria_pathname: reto07-roselles
 ---
 
 En este blog se presenta una pequeña muestra de obras realizadas por artistas de la Escuela de Pintura de Carlet.
@@ -30,6 +31,14 @@ Santiago.
 ### Octogato Artista
 
 ![logo octogato como pintor](/images/octogato-artista.png "Octogato Artista")
+
+#### Miniaturas
+
+{% assign galeria_pathname = page.galeria_pathname %}
+{% include cuadro.html %}
+
+---
+#### Futuro sistema de comentarios aquí debajo
 
 <script defer src="https://commento.pinturitas.com:8080/js/commento.js"></script>
 <div id="commento"></div>
