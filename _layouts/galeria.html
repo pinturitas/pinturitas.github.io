@@ -10,7 +10,7 @@ layout: default
     {% if page.galeria_pathname %}
       <hr/>
       {% for f in site.static_files %}{% if f.path contains page.galeria_pathname %}
-        <img src="{{ site.baseurl }}{{ f.path }}" alt="Imagen de una obra de arte" title="{{ f.basename }}" />
+        <img class="cuadro" src="{{ site.baseurl }}{{ f.path }}" alt="Imagen de una obra de arte" title="{{ f.basename }}" />
       {% endif %}{% endfor %}
       <hr/>
     {% endif %}
