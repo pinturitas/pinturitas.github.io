@@ -5,9 +5,10 @@ title: pruebas
 
 ### Futuras miniaturas
 
-{% assign galeria_pathname = "arte/reto07-roselles" %}
-{% capture my_include %}{% include cuadros.html %}{% endcapture %}
-{{ my_include | markdownify }}
+<div>
+{% capture SELECTOR %}arte/reto07-roselles{% endcapture %}
+{% include selector.html %}
+</div>
 
 ### Futuro sistema de comentarios aquí debajo
 

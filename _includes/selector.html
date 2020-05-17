@@ -1,7 +1,11 @@
     {% if SELECTOR %}
       {% for item in site.static_files %}{% if item.path contains SELECTOR %}
-        <img src="{{ site.baseurl }}{{ item.path }}" alt="Imagen o fotografía de una obra artística" title="{{ item.basename }}" />
-        <p>{{ item.basename }}</p>
+      <div class="{{ clase1 }}">
+        <a target="_blank" href="{{ site.baseurl }}{{ item.path }}">
+          <img src="{{ site.baseurl }}{{ item.path }}" alt="Imagen {{ item.basename }}" title="{{ item.basename }}" />
+        </a>
+        <div class="{{ clase2 }}">{{ item.basename }}</div>
+      </div>
       {% endif %}{% endfor %}
     {% endif %}
 

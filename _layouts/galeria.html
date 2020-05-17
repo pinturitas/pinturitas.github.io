@@ -7,13 +7,13 @@ layout: default
 
   <div class="entry">
     {{ content }}
-    {% if page.galeria_pathname %}
-      <hr/>
-      {% for f in site.static_files %}{% if f.path contains page.galeria_pathname %}
-        <img class="cuadro" src="{{ site.baseurl }}{{ f.path }}" alt="Imagen de una obra de arte" title="{{ f.basename }}" />
-      {% endif %}{% endfor %}
-      <hr/>
-    {% endif %}
+  </div>
+
+  <div class="responsive">
+    {% capture SELECTOR %}{{ page.galeria_pathname }}{% endcapture %}
+    {% assign clase1 = "gallery" %}
+    {% assign clase2 = "desc" %}
+    {% include selector.html %}
   </div>
 
   <div class="date">

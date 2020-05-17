@@ -3,16 +3,19 @@ layout: default
 ---
 {% assign artistaid = page.item_id %}
 {% assign artista = site.data.artistas | where:"item_id", artistaid | first %}
-{% capture SELECTOR %}-{{ artistaid }}.jpg{% endcapture %}
 
 <article class="post">
   <h1><strong>{{ artista.alias }}</strong></a><em> - {{ artista.nombre }}</em></h1>
   <blockquote>{{ artista.bio | default: "**Ninguna nota biográfica proporcionada todavía**" }}</blockquote>
   {% if artista.bio_va %}<blockquote>{{ artista.bio_va }}</blockquote>{% endif %}
 
+</article>
   <div class="entry">
     {{ content }}
-    {% include selector.html %}
+    {% capture SELECTOR %}-{{ artistaid }}.jpg{% endcapture %}
+    {% assign clase1 = "gallery" %}
+    {% assign clase2 = "desc" %}
+    <div class="responsive">{% include selector.html %}</div>
   </div>
 
-</article>
+
