@@ -1,4 +1,4 @@
---
+---
 layout: galeria
 title: Tema - Gorjuss
 categories: [temas]
