@@ -8,3 +8,5 @@ fecha: 2020-05-20
 ---
 
 La inspiración sin boca se expresa por medio del dibujo...
+
+* La inspiració sense boca s'expressa mitjançant el dibuix...*
