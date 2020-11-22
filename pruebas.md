@@ -1,5 +1,5 @@
 ---
-layout: prueba
+layout: page
 title: pruebas
 ---
 
