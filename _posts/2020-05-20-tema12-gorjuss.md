@@ -1,9 +1,9 @@
 ---
 layout: galeria
-title: Tema - Gorjuss
+title: Tema12 - Gorjuss
 categories: [temas]
 tags: [covid19, primavera-2020, dibujos]
-galeria_pathname: arte/tema-gorjuss
+galeria_pathname: arte/tema12-gorjuss
 fecha: 2020-05-20
 ---
 
