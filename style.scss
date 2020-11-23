@@ -319,10 +319,10 @@ div.desc {
 .prueba2 {
   background-color: $blue;
   background-image: url('{{ site.baseurl }}/images/cervecita.jpg');
-  height: 500px; /* You must set a specified height */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: cover; /* Resize the background image to cover the entire container */
+  /* height: 500px;*/ /* You must set a specified height */
+  background-position: left top;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 /* no furrula */
