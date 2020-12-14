@@ -101,6 +101,11 @@
   nombre: Rosa María Martínez Grau
   bio: Maestra jubilada ¡¡¡y alumna de pintura entusiasmada!!!
 
+- item_id: rosa2
+  alias: Rosa MV
+  nombre: Rosa Martínez Vanaclocha
+  bio:
+
 - item_id: santiago
   alias: Santiago
   nombre: Santiago Calzada Martínez
