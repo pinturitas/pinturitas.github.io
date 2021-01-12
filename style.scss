@@ -317,21 +317,26 @@ div.desc {
 
 /* prueba2 */
 .prueba2 {
-  background-color: $amarillo;
+  /* background-color: $amarillo; */
   background-image: url('{{ site.baseurl }}/images/cervecita.jpg');
   /* height: 500px;*/ /* You must set a specified height */
   background-position: left top;
   background-repeat: no-repeat;
   background-size: auto 100%;
+  opacity: 0.50;
 }
 
 /* prueba3 */
 .prueba3 {
-  background-image: url('{{ site.baseurl }}/images/cervecita.jpg');
-  /* height: 500px;*/ /* You must set a specified height */
-  background-position: left top;
-  background-repeat: no-repeat;
-  background-size: auto 100%;
+    position: relative; 
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://placekitten.com/1200/800');
+    background-size: cover;
+
 }
 .prueba3::before {
     content: "";
@@ -342,6 +347,7 @@ div.desc {
     left: 0px;
     background-color: rgba(0,0,0,0.25);
 }
+
 /* no furrula */
 /*
 * {
