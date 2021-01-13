@@ -1,6 +1,7 @@
 ---
 layout: page
-title: pruebas
+title: prueba1
+permalink: /prueba1/
 ---
 
 ### Futuras miniaturas
