@@ -45,8 +45,7 @@ defaults:
     scope:
       path: _pruebas
     values:
-      permalink: /pruebas/:title/
-      layout: "pruebas"
+      permalink: /:title/
 
 #
 # Flags below are optional
