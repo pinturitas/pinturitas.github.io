@@ -109,3 +109,8 @@ exclude:
   - README.md
   - CNAME
 
+# Hay que usar 'include' si se quiere incluír lo siguiente
+include:
+  - _pages
+  - _pruebas
+  
