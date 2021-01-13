@@ -34,14 +34,15 @@ collections:
     output: true
 
 defaults:
-  - scope:
+  - 
+    scope:
       path: ""
       type: "artistas"
     values:
       layout: "artista"
 
-defaults:
-  - scope:
+  - 
+    scope:
       path: _pruebas
     values:
       permalink: /pruebas/:title/
