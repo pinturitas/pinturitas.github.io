@@ -34,18 +34,11 @@ collections:
     output: true
 
 defaults:
-  - 
-    scope:
+  - scope:
       path: ""
       type: "artistas"
     values:
       layout: "artista"
-
-  - 
-    scope:
-      path: _pruebas
-    values:
-      permalink: /:title/
 
 #
 # Flags below are optional
