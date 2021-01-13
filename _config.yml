@@ -39,6 +39,14 @@ defaults:
       type: "artistas"
     values:
       layout: "artista"
+
+defaults:
+  - scope:
+      path: _pruebas
+    values:
+      permalink: /pruebas/:title/
+      layout: "pruebas"
+
 #
 # Flags below are optional
 #
